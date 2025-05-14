@@ -24,12 +24,13 @@ A Java program for compressing and decompressing images in the YUV color space u
 
    ```
     git clone https://github.com/mariamelghandoor/YUV-Image-Compression-with-Vector-Quantization.git
-
+   ```
 
 2. Navigate to the project directory:
 
    ```
     cd yuv-image-compression
+   ```
 
 
 3. Compile and run:
@@ -37,6 +38,7 @@ A Java program for compressing and decompressing images in the YUV color space u
     ```
     javac App.java
     java App
+    ```
 
 
 4. Enter the image file name (e.g., image.jpg) from the Data\Test\ folder when prompted.
